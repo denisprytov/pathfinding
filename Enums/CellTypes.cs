@@ -1,4 +1,10 @@
 ﻿namespace PathFindingApp
 {
-    enum CellTypes { Empty, Block, Start, Finish }
+
+    enum CellTypes { 
+        Empty, 
+        Block, 
+        Start, 
+        Finish }
+
 }
